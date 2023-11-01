@@ -1,6 +1,11 @@
-body{ font-size: 20px;
-text-align: center;
-background-color: gray;}
+body {
+    background: #CCCCCC;
+}
 
+<p {
+    text-align: center;
+   }
 
-.destaque{color: red;}
+ em  strong {
+       color: red;
+   }
