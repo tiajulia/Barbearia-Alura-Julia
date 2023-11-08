@@ -1,11 +1,17 @@
-body {
-    background: #CCCCCC;
-}
+body{
+   
+    font-size: 20px;}
 
-<p {
-    text-align: center;
-   }
+.destaque{color: red;}
 
- em  strong {
-       color: red;
-   }
+.principal {background-color: gray;
+  text-align: center;}
+
+  .subtitulo{text-align: center;}
+
+.lista{display: inline-block;
+vertical-align: top;}
+
+.imagem{width: 100%;}
+
+.imagem.beneficios{width: 50%;}
